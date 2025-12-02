@@ -1,0 +1,6 @@
+Layer 0 (Linear)  in_features=4  out_features=2
+  neurônio 0: weights = [-0.072179, -0.065765, -0.072178, -0.069031], bias = 2.440594
+  neurônio 1: weights = [-0.071122, -0.069605, -0.058940, -0.058628], bias = 2.236029
+
+Layer 1 (Linear)  in_features=2  out_features=1
+  neurônio 0: weights = [-2.688929, -1.961320], bias = 1.461362
